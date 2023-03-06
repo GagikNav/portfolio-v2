@@ -6,7 +6,8 @@
 		"**/package.json",
 		"**/tailwind.config.js",
 		"**/postcss.config.js",
-		"**/assets/**"
+		"**/assets/**",
+		".cspell.json"
 	],
 	// Version of the setting file.  Always 0.2
 	"version": "0.2",
