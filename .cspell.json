@@ -15,15 +15,25 @@
 	"language": "en",
 	// words - list of words to be always considered correct
 	"words": [
-		"mkdirp",
-		"tsmerge",
+		"carrent",
+		"nocheck",
 		"githubusercontent",
+		"jobit",
+		"mkdirp",
+		"nextjs",
+		"reactjs",
+		"restapi",
 		"streetsidesoftware",
-		"vsmarketplacebadge",
-		"visualstudio"
+		"supabase",
+		"threejs",
+		"tripguide",
+		"tsmerge",
+		"visualstudio",
+		"vsmarketplacebadge"
 	],
 	// flagWords - list of words to be always considered incorrect
 	// This is useful for offensive words and common spelling errors.
 	// For example "hte" should be "the"
 	"flagWords": ["hte"]
 }
+
