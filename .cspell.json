@@ -15,12 +15,15 @@
 	"language": "en",
 	// words - list of words to be always considered correct
 	"words": [
+		"Avenir",
 		"carrent",
-		"nocheck",
+		"Gagik",
 		"githubusercontent",
 		"jobit",
 		"mkdirp",
+		"Navasatariyan",
 		"nextjs",
+		"nocheck",
 		"reactjs",
 		"restapi",
 		"streetsidesoftware",
@@ -34,6 +37,7 @@
 	// flagWords - list of words to be always considered incorrect
 	// This is useful for offensive words and common spelling errors.
 	// For example "hte" should be "the"
-	"flagWords": ["hte"]
+	"flagWords": [
+		"hte"
+	]
 }
-
